@@ -1,0 +1,13 @@
+E:\ISIG\Cours L3 LIAGE\Genie Logiciel\Travail Pratique Numero 2 GL\Code Source\GestionEtudiants\TestConsole\bin\Debug\TestConsole.exe.config
+E:\ISIG\Cours L3 LIAGE\Genie Logiciel\Travail Pratique Numero 2 GL\Code Source\GestionEtudiants\TestConsole\bin\Debug\TestConsole.exe
+E:\ISIG\Cours L3 LIAGE\Genie Logiciel\Travail Pratique Numero 2 GL\Code Source\GestionEtudiants\TestConsole\bin\Debug\TestConsole.pdb
+E:\ISIG\Cours L3 LIAGE\Genie Logiciel\Travail Pratique Numero 2 GL\Code Source\GestionEtudiants\TestConsole\bin\Debug\ManageSingleConnexion.dll
+E:\ISIG\Cours L3 LIAGE\Genie Logiciel\Travail Pratique Numero 2 GL\Code Source\GestionEtudiants\TestConsole\bin\Debug\MySql.Data.dll
+E:\ISIG\Cours L3 LIAGE\Genie Logiciel\Travail Pratique Numero 2 GL\Code Source\GestionEtudiants\TestConsole\bin\Debug\Npgsql.dll
+E:\ISIG\Cours L3 LIAGE\Genie Logiciel\Travail Pratique Numero 2 GL\Code Source\GestionEtudiants\TestConsole\bin\Debug\Google.Protobuf.dll
+E:\ISIG\Cours L3 LIAGE\Genie Logiciel\Travail Pratique Numero 2 GL\Code Source\GestionEtudiants\TestConsole\bin\Debug\ManageSingleConnexion.pdb
+E:\ISIG\Cours L3 LIAGE\Genie Logiciel\Travail Pratique Numero 2 GL\Code Source\GestionEtudiants\TestConsole\bin\Debug\MySql.Data.xml
+E:\ISIG\Cours L3 LIAGE\Genie Logiciel\Travail Pratique Numero 2 GL\Code Source\GestionEtudiants\TestConsole\bin\Debug\Google.Protobuf.xml
+E:\ISIG\Cours L3 LIAGE\Genie Logiciel\Travail Pratique Numero 2 GL\Code Source\GestionEtudiants\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+E:\ISIG\Cours L3 LIAGE\Genie Logiciel\Travail Pratique Numero 2 GL\Code Source\GestionEtudiants\TestConsole\obj\Debug\TestConsole.exe
+E:\ISIG\Cours L3 LIAGE\Genie Logiciel\Travail Pratique Numero 2 GL\Code Source\GestionEtudiants\TestConsole\obj\Debug\TestConsole.pdb
